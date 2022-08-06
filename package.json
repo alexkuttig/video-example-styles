@@ -1,5 +1,5 @@
 {
-  "name": "react-native-video-example-styles",
+  "name": "prn-video-example-styles",
   "version": "0.1.0",
   "description": "test",
   "main": "lib/commonjs/index",
@@ -36,13 +36,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://www.github.com/alexkuttig/react-native-video-example-styles",
+  "repository": "https://github.com/alexkuttig/video-example-styles",
   "author": "Alexander Kuttig <alexander.kuttig@horizon-alpha.com> (https://www.horizon-alpha.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://www.github.com/alexkuttig/react-native-video-example-styles/issues"
+    "url": "https://github.com/alexkuttig/video-example-styles/issues"
   },
-  "homepage": "https://www.github.com/alexkuttig/react-native-video-example-styles#readme",
+  "homepage": "https://github.com/alexkuttig/video-example-styles#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
