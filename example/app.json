@@ -1,0 +1,23 @@
+{
+  "name": "react-native-video-example-styles-example",
+  "displayName": "VideoExampleStyles Example",
+  "expo": {
+    "name": "react-native-video-example-styles-example",
+    "slug": "react-native-video-example-styles-example",
+    "description": "Example app for react-native-video-example-styles",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "jsEngine": "hermes",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
