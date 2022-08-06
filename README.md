@@ -3,7 +3,7 @@ The styles for the example application for the book professional-react-native
 ## Installation
 
 ```sh
-npm install video-example-styles
+npm install prn-video-example-styles
 ```
 
 ## License
